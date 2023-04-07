@@ -1,5 +1,4 @@
 /*
- 
 Good morning! Here's your coding interview problem for today.
 
 This problem was asked by Jane Street.
@@ -14,7 +13,6 @@ def cons(a, b):
     return pair
     
 Implement car and cdr. 
-
 */
 
 public class ConstructPair {
