@@ -1,6 +1,3 @@
-import java.util.HashMap;
-import java.util.Map;
-
 /*
  
 Good morning! Here's your coding interview problem for today.
@@ -14,6 +11,10 @@ For example, the message '111' would give 3, since it could be decoded as 'aaa',
 You can assume that the messages are decodable. For example, '001' is not allowed.
 
  */
+
+import java.util.HashMap;
+import java.util.Map;
+
 public class MessageDecoder {
 
 	public static void main(String[] args) {
