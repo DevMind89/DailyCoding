@@ -18,7 +18,6 @@ public class AutoComplete {
 
 	public static void main(String[] args) {
 		
-		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Write dos letters: ");
@@ -41,5 +40,6 @@ public class AutoComplete {
 		}
 		
 		System.out.println(set2.toString());
+		sc.close();
 	}
 }
